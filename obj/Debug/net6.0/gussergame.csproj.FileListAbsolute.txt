@@ -1,0 +1,15 @@
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\bin\Debug\net6.0\gussergame.exe
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\bin\Debug\net6.0\gussergame.deps.json
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\bin\Debug\net6.0\gussergame.runtimeconfig.json
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\bin\Debug\net6.0\gussergame.dll
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\bin\Debug\net6.0\gussergame.pdb
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\gussergame.csproj.AssemblyReference.cache
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\gussergame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\gussergame.AssemblyInfoInputs.cache
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\gussergame.AssemblyInfo.cs
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\gussergame.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\gussergame.dll
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\refint\gussergame.dll
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\gussergame.pdb
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\gussergame.genruntimeconfig.cache
+C:\Users\VISHAL PANKAJ\OneDrive\Documents\Web Development\c#\gussergame\obj\Debug\net6.0\ref\gussergame.dll
